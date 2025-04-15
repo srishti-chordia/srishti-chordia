@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Srishti 👋</h1>
 
 <p align="center">
-  <i>Surviving on caffeine, last-minute submissions, and the hope that 'compile successfully' means 'I pass'.</i>
+  <i>Still figuring it out, but making progress every commit.</i>
 </p>
 
 ---
